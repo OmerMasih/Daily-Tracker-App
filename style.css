@@ -1,0 +1,90 @@
+body{
+    
+    font-family: sans-serif;  
+}
+
+
+.Momentum{
+    background-color: #e9f2ea;
+    border-bottom: 6px solid black;
+    border-style: groove; 
+    color: black; 
+    text-align: center;
+    
+}
+
+
+.work-day{
+    border-radius: 20px;
+    padding: 15px;
+    display: flex;
+    font-size: 4rem;
+    font-weight: 300;   
+    justify-content: center;
+}
+
+h3{
+    padding-left: 40px;
+}
+
+h4{
+    margin: 10px;
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+form:hover{
+    background-color: rgb(197, 192, 192);
+    cursor: pointer;
+}
+
+form{
+    display: flex;
+    height: 66px;
+    margin: 0px 0px -13px 0px;
+    width: 100%;
+}
+
+
+.input {
+    background-color: #9dd393;
+    color: #5f6368;
+    display: flex;
+    font-size: 1em;
+    float: left;
+    height: 44px;
+    width: 79%;
+  }
+
+
+.saveBtn:hover{
+    background-color: red;
+    cursor: pointer;
+}
+
+  .saveBtn {
+    background-color: #4E6C50;
+    border-left: 1px solid black;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    color: white;
+    font-size: 20px;
+    height: 50px;
+    width: 10%;
+    
+  }
+
+
+  .hour {
+    background-color: rgb(244, 239, 232);
+    border-top: 1px dashed #5b4e4e;
+    height: 45px;
+    vertical-align: middle;
+    width: 10%;
+    float: left;
+  }
+
+
+
