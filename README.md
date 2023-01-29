@@ -1,5 +1,7 @@
 # Daily-Tracker-App
 
+https://omermasih.github.io/Daily-Tracker-App/
+
 ## AS AN employee with a busy schedul I WANT to add important events to a daily planner, SO THAT I can manage my time effectively.
 
 
