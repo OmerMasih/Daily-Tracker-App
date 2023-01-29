@@ -7,7 +7,6 @@ $(document).ready(function (){
 
     $("#day-current").append(day);
   
-    // $("#day-current").append(time);
 
     for(var i = 0; i < dailyHours.length; i++){
         var recentHour = moment().format('H');
